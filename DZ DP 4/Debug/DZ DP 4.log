@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Hp\source\repos\DZ DP 4\DZ DP 4\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Hp\source\repos\DZ DP 4\DZ DP 4\Source.cpp(73,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Hp\source\repos\DZ DP 4\DZ DP 4\Source.cpp(75,8): error C2660: Database::Log: функция не принимает 0 аргументов
+C:\Users\Hp\source\repos\DZ DP 4\DZ DP 4\Source.cpp(17,7): message : см. объявление "Database::Log"

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ DP 4", "DZ DP 4\DZ DP 4.vcxproj", "{DC9E8BE4-6015-4119-A314-6C43D587555E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Debug|x64.ActiveCfg = Debug|x64
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Debug|x64.Build.0 = Debug|x64
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Debug|x86.Build.0 = Debug|Win32
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Release|x64.ActiveCfg = Release|x64
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Release|x64.Build.0 = Release|x64
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Release|x86.ActiveCfg = Release|Win32
+		{DC9E8BE4-6015-4119-A314-6C43D587555E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1CB709-39C6-4D15-83B3-AA14F3378C44}
+	EndGlobalSection
+EndGlobal
